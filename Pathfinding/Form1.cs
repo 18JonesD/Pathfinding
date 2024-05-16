@@ -6,5 +6,10 @@ namespace Pathfinding
         {
             InitializeComponent();
         }
+
+        private void fileToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }
